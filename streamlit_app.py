@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 syifaaa -app)
+st.title("🎈 syifa -app)
 st.write(
     "ayo belajar ngoding"
 )
